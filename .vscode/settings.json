@@ -1,0 +1,21 @@
+{
+    // Default URI scheme for opening files
+    "files.defaultUriScheme": "file",
+    // File associations to specify how certain file extensions are interpreted
+    "files.associations": {
+        "*.jsonc": "jsonc"
+    },
+    // Exclude specific folders from file watching to improve performance
+    "files.watcherExclude": {
+        "**/node_modules": true,
+        "**/.git": true
+    },
+    // Automatically save files when focus is lost
+    "files.autoSave": "onFocusChange",
+    // Delay in milliseconds before auto-saving files
+    "files.autoSaveDelay": 1000,
+    // Default folder path for opening files
+    "files.defaultFolderPath": "\\\\10.0.0.10\\docker\\lmstudio-python",
+    // Default file path for creating new files
+    "files.defaultFilePath": "\\\\10.0.0.10\\docker\\lmstudio-python"
+}
