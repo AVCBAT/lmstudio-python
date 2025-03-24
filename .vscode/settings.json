@@ -15,7 +15,7 @@
     // Delay in milliseconds before auto-saving files
     "files.autoSaveDelay": 1000,
     // Default folder path for opening files
-    "files.defaultFolderPath": "/mnt/lmstudio-python",
+    "files.defaultFolderPath": "\\\\10.0.0.10\\docker\\lmstudio-python",
     // Default file path for creating new files
-    "files.defaultFilePath": "/mnt/lmstudio-python"
+    "files.defaultFilePath": "\\\\10.0.0.10\\docker\\lmstudio-python"
 }
